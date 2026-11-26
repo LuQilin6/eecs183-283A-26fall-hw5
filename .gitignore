@@ -1,3 +1,6 @@
 .venv/
-.hw5-checkpoints/
-.hw5-bonus/
+hw5-checkpoints/
+hw5-bonus/
+geo.db
+geography-db.sql
+geography.json
